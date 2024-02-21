@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/RuslanManoilo/AutoHub/static/css/main.7acaea2f.css",
-    "main.js": "/RuslanManoilo/AutoHub/static/js/main.e5e9c8e8.js",
+    "main.js": "/RuslanManoilo/AutoHub/static/js/main.d4d2093d.js",
+    "static/js/544.f664feb7.chunk.js": "/RuslanManoilo/AutoHub/static/js/544.f664feb7.chunk.js",
+    "static/js/822.ef9619f8.chunk.js": "/RuslanManoilo/AutoHub/static/js/822.ef9619f8.chunk.js",
+    "static/js/793.c5d7c2d1.chunk.js": "/RuslanManoilo/AutoHub/static/js/793.c5d7c2d1.chunk.js",
     "index.html": "/RuslanManoilo/AutoHub/index.html",
     "main.7acaea2f.css.map": "/RuslanManoilo/AutoHub/static/css/main.7acaea2f.css.map",
-    "main.e5e9c8e8.js.map": "/RuslanManoilo/AutoHub/static/js/main.e5e9c8e8.js.map"
+    "main.d4d2093d.js.map": "/RuslanManoilo/AutoHub/static/js/main.d4d2093d.js.map",
+    "544.f664feb7.chunk.js.map": "/RuslanManoilo/AutoHub/static/js/544.f664feb7.chunk.js.map",
+    "822.ef9619f8.chunk.js.map": "/RuslanManoilo/AutoHub/static/js/822.ef9619f8.chunk.js.map",
+    "793.c5d7c2d1.chunk.js.map": "/RuslanManoilo/AutoHub/static/js/793.c5d7c2d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.e5e9c8e8.js"
+    "static/js/main.d4d2093d.js"
   ]
 }
