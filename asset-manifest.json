@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RuslanManoilo/AutoHub/static/css/main.7acaea2f.css",
+    "main.js": "/RuslanManoilo/AutoHub/static/js/main.e5e9c8e8.js",
+    "index.html": "/RuslanManoilo/AutoHub/index.html",
+    "main.7acaea2f.css.map": "/RuslanManoilo/AutoHub/static/css/main.7acaea2f.css.map",
+    "main.e5e9c8e8.js.map": "/RuslanManoilo/AutoHub/static/js/main.e5e9c8e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e5e9c8e8.js"
+  ]
+}
