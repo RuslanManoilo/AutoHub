@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkauto_hub=self.webpackChunkauto_hub||[]).push([[544],{544:function(u,e,n){n.r(e),n.d(e,{default:function(){return r}});var t=n(184);function r(){return(0,t.jsx)("div",{children:(0,t.jsx)("h1",{children:"Home page"})})}}}]);
-//# sourceMappingURL=544.f664feb7.chunk.js.map
