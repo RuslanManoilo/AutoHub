@@ -1,15 +1,17 @@
+import { NavMenu } from 'components/Header/NavMenu/NavMenu';
 import { Suspense } from 'react';
 import { Outlet } from 'react-router-dom';
+import { Header } from './Layout.styled';
 
 export const Layout = () => {
   return (
     <>
-      <header>
-        <h1>Layout</h1>
-        <p>Home</p>
-        <p>Catalog</p>
-        <p>Favorite</p>
-      </header>
+      <Header>
+
+        <h1>LOGO</h1>
+        <NavMenu />
+
+      </Header>
       <main>
         <Suspense
         // fallback={<Loader />}
